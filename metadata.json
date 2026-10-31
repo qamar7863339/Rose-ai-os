@@ -1,0 +1,6 @@
+{
+  "name": "ROSE AI OS",
+  "description": "Enterprise AI operating system for ROSE AI Agency to orchestrate client operations, autonomous AI agents, multi-step automations, integrations, and client portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
